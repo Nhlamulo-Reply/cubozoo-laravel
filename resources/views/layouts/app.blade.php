@@ -20,7 +20,7 @@
             rgba(10, 10, 10, 0.95), /* Slightly darker */
             rgba(5, 5, 5, 0.9),  /* Almost pure black */
             rgba(0, 0, 0, 1)),  /* Deep black at the bottom */
-            url("{{ asset('img/hexa.jpeg') }}") no-repeat center center fixed;
+            url("{{ asset('img/hexa.jpeg') }}") no-repeat right fixed;
             background-size: cover;
             margin: 0;
             padding: 0;
