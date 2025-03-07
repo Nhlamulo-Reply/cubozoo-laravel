@@ -39,10 +39,6 @@ public/
     - The landing page structure is in `views/welcome.blade.php`.
 - **Assets**: Static files such as images are stored in `public/img/`.
 
-## Contributing
-- Follow the existing structure when adding new components or styles.
-- Ensure that any modifications to styles or scripts do not break existing layouts.
-- Use Laravel's Blade templating features for modular and reusable code.
 
 
 ---
