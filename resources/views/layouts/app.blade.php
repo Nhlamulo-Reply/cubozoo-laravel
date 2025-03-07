@@ -47,7 +47,7 @@
         .home {
             display: flex;
             align-items: center;
-            background:url("{{ asset('img/bg-img.jpg') }}") no-repeat right fixed;
+            background: url("{{ asset('img/bg-img.png') }}") no-repeat right fixed;
             background-size: 800px;
             height: 120vh;
             min-height: 500px;
