@@ -14,6 +14,8 @@
     @stack('head')
 
     <style>
+
+
         body {
             background: linear-gradient(180deg,
             rgba(15, 15, 15, 1),  /* Dark charcoal black */
@@ -75,7 +77,7 @@
             font-size: 3rem;
         }
         .home h1 {
-            font-size: 3rem;
+            font-size: 4rem;
 
         }
         .text-underline {
